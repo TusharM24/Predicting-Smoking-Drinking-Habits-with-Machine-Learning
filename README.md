@@ -25,9 +25,6 @@ An R-based analytics pipeline that predicts individuals’ smoking and drinking 
 - **`IDA_Final_Report_GROUP-16.pdf`**  
   The final project report detailing objectives, methodology, results, and conclusions.
 
-- **`IDA_Project.R`**  
-  The R script containing the complete workflow: data loading, preprocessing, exploratory analysis, feature engineering, XGBoost classification, K-means clustering, model evaluation (accuracy, AUC), and statistical tests.
-
 
 - **`README.md`**  
   This file.
